@@ -78,11 +78,11 @@ footer a {
 }
 
 .hero-form {
+    border: solid 3px #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
     color: #024e76;
-    border: solid 3px #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
@@ -196,11 +196,11 @@ footer a {
 }
 
 .trainer {
-    overflow: auto;
     width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
+    overflow: auto;
 }
 
 .trainer img {
@@ -221,7 +221,7 @@ footer a {
 
 .trainer-bio h4 {
     font-weight: lighter;
-    font-size: 24px;
+    font-size: 26px;
     margin-bottom: 25px;
 }
 
